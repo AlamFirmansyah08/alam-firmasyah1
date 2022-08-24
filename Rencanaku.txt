@@ -1,3 +1,11 @@
 1 bulan kedepan aku belajar github
+-membuat akun
+-membuat berbach dan marge
+-membuat fork
 2 bulan kedepan aku brlajar pemogramab web
+-html
+-css: pemulihan kode css menforman text dan tabel
+-javascript: memulihkan kode javascript, membuat pecahan di triwear
+3 bulan kedepan aku membuat web berkalobrasi dengan git
+4 bulan kedepan mempresentasikan hasil proyek
 Dsb
