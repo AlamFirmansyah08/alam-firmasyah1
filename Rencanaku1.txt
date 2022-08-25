@@ -1,3 +1,7 @@
 1 bulan pertama daya belajar github
+belajar apa aja
 2 bulan kedua saya belajar membuat web
+html
+css
+JavaScript
 dsb
